@@ -1,5 +1,5 @@
+// import 'package:/player/Player.dart';
 import 'package:flutter/material.dart';
-import 'package:audioplayers/audioplayers.dart';
 import 'package:player/Player.dart';
 
 void main() => runApp(MyApp());
